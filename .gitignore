@@ -1,5 +1,7 @@
-
+﻿
 *.suo
 *.db
 .vs/
 Debug/
+AFactory/Debug
+AFactory/ipch
